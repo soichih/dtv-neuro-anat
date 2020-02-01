@@ -1,0 +1,18 @@
+{
+	"output": {
+            "id": "t1",
+            "datatype": "58c33bcee13a50849b25879a",
+            "desc": "HCP ACPC Alignment (T1)",
+            "meta": {
+                "subject": "FP",
+                "session": "1"
+            },
+            "files": {
+                "t1": "out.nii.gz"
+            },
+            "datatype_tags": [
+                "acpc_aligned"
+            ]
+        }
+	
+}

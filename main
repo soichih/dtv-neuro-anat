@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+set -x
+
+time singularity exec -e docker://soichih/dtv-neuro-anat validate.py $(jq -r .dir config.json)
+
